@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<My FirstGit>
+       <time>20160808</time>
+       <comment></comment>
+       < music>
+            <musciplayer>
+            <name>QQ MUSIC player</name>
+            <playing>
+                 <name>someone like you</name>
+                 <singer>adele</singer>
+                 <album>21</album>
+            </playing>
+        </music>
+  </My FirstGit>
